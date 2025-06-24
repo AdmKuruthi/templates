@@ -1,0 +1,26 @@
+{
+  "name": "ejs_template",
+  "version": "1.0.0",
+  "description": "Template for ejs + express",
+  "keywords": [
+    "ejs",
+    "express",
+    "nodejs",
+    "template"
+  ],
+  "license": "ISC",
+  "author": "AdmKuruthi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
